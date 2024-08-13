@@ -1,0 +1,15 @@
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBusRabbitMQ/bin/Debug/net8.0/EventBusRabbitMQ.deps.json
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBusRabbitMQ/bin/Debug/net8.0/EventBusRabbitMQ.dll
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBusRabbitMQ/bin/Debug/net8.0/EventBusRabbitMQ.pdb
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBusRabbitMQ/bin/Debug/net8.0/EventBus.dll
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBusRabbitMQ/bin/Debug/net8.0/EventBus.pdb
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBusRabbitMQ/obj/Debug/net8.0/EventBusRabbitMQ.csproj.AssemblyReference.cache
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBusRabbitMQ/obj/Debug/net8.0/EventBusRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBusRabbitMQ/obj/Debug/net8.0/EventBusRabbitMQ.AssemblyInfoInputs.cache
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBusRabbitMQ/obj/Debug/net8.0/EventBusRabbitMQ.AssemblyInfo.cs
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBusRabbitMQ/obj/Debug/net8.0/EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBusRabbitMQ/obj/Debug/net8.0/EventBus.420B731B.Up2Date
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBusRabbitMQ/obj/Debug/net8.0/EventBusRabbitMQ.dll
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBusRabbitMQ/obj/Debug/net8.0/refint/EventBusRabbitMQ.dll
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBusRabbitMQ/obj/Debug/net8.0/EventBusRabbitMQ.pdb
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBusRabbitMQ/obj/Debug/net8.0/ref/EventBusRabbitMQ.dll

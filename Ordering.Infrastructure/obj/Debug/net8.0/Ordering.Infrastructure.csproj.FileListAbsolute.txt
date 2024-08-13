@@ -1,0 +1,15 @@
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/Ordering.Infrastructure/bin/Debug/net8.0/Ordering.Infrastructure.deps.json
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/Ordering.Infrastructure/bin/Debug/net8.0/Ordering.Infrastructure.dll
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/Ordering.Infrastructure/bin/Debug/net8.0/Ordering.Infrastructure.pdb
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/Ordering.Infrastructure/bin/Debug/net8.0/Ordering.Domain.dll
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/Ordering.Infrastructure/bin/Debug/net8.0/Ordering.Domain.pdb
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/Ordering.Infrastructure/obj/Debug/net8.0/Ordering.Infrastructure.csproj.AssemblyReference.cache
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/Ordering.Infrastructure/obj/Debug/net8.0/Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/Ordering.Infrastructure/obj/Debug/net8.0/Ordering.Infrastructure.AssemblyInfoInputs.cache
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/Ordering.Infrastructure/obj/Debug/net8.0/Ordering.Infrastructure.AssemblyInfo.cs
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/Ordering.Infrastructure/obj/Debug/net8.0/Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/Ordering.Infrastructure/obj/Debug/net8.0/Ordering.7AF05425.Up2Date
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/Ordering.Infrastructure/obj/Debug/net8.0/Ordering.Infrastructure.dll
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/Ordering.Infrastructure/obj/Debug/net8.0/refint/Ordering.Infrastructure.dll
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/Ordering.Infrastructure/obj/Debug/net8.0/Ordering.Infrastructure.pdb
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/Ordering.Infrastructure/obj/Debug/net8.0/ref/Ordering.Infrastructure.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P600lekIPhLfbMy4tTHTz6DlNbyQnL+hFDMQ/5xFcn8mte32dq5PyA39NmJ/9SGZccercWc08BPKPwzqVH+P1w==",
+  "success": true,
+  "projectFilePath": "/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBusRabbitMQ/EventBusRabbitMQ.csproj",
+  "expectedPackageFiles": [
+    "/Users/alifurkankizil/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/alifurkankizil/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/alifurkankizil/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

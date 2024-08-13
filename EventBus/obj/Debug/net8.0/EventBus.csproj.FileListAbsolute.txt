@@ -1,0 +1,11 @@
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBus/bin/Debug/net8.0/EventBus.deps.json
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBus/bin/Debug/net8.0/EventBus.dll
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBus/bin/Debug/net8.0/EventBus.pdb
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBus/obj/Debug/net8.0/EventBus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBus/obj/Debug/net8.0/EventBus.AssemblyInfoInputs.cache
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBus/obj/Debug/net8.0/EventBus.AssemblyInfo.cs
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBus/obj/Debug/net8.0/EventBus.csproj.CoreCompileInputs.cache
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBus/obj/Debug/net8.0/EventBus.dll
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBus/obj/Debug/net8.0/refint/EventBus.dll
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBus/obj/Debug/net8.0/EventBus.pdb
+/Users/alifurkankizil/RiderProjects/DDDEventDriven/EventBus/obj/Debug/net8.0/ref/EventBus.dll
